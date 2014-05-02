@@ -1,1 +1,1 @@
-Rails.application.config.assets.precompile +=( main.js )
+Rails.application.config.assets.precompile 
